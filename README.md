@@ -518,15 +518,7 @@ graph TD
     M --> N[HandlerInterceptors]
     N --> O[Response]
     O --> P[Cliente]
-    
-    style A fill:#f9f,stroke:#333
-    style P fill:#f9f,stroke:#333
-    style F fill:#bbf,stroke:#333
-    style G fill:#fbf,stroke:#333
-    style H fill:#bfb,stroke:#333
-    style I fill:#ffb,stroke:#333
-    style J fill:#fbb,stroke:#333
-    style K fill:#bff,stroke:#333
+
 ```
 ---
 
